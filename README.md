@@ -6,8 +6,8 @@ This model focuses on predicting car prices based on various attributes using ma
 ## Dataset
 The dataset (`quikr_car.csv`) was sourced from [Quikr](https://www.quikr.com/), a classifieds platform in India, and has been cleaned and preprocessed for analysis. Key steps included handling missing values, converting data types, and cleaning inconsistent entries in the data.
 
-## Project Structure
-The project is structured as follows:
+## Model Structure
+The model is structured as follows:
 - **Data Cleaning and Preparation**: Initial cleaning steps to ensure the dataset is suitable for analysis.
 - **Exploratory Data Analysis (EDA)**: Visualizing relationships between variables to understand how they affect car prices.
 - **Modeling**: Utilizing linear regression to build a predictive model for car prices.
