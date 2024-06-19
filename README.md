@@ -27,4 +27,4 @@ The project is structured as follows:
 - scikit-learn
 
 ## Conclusion
-This model demonstrates how machine learning can be applied to predict car prices based on various attributes. It provides a structured approach to data cleaning, exploratory analysis, model development, and deployment.
+This project demonstrates how machine learning can be applied to predict car prices based on various attributes. It provides a structured approach to data cleaning, exploratory analysis, model development, and deployment.
